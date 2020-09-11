@@ -12,7 +12,7 @@ By **Prof. Chaojun Lu**, 2020-2021-Semester 1.
 
 Outline 大纲：
 
-- Chap 1 & 2：第一章、第二章内容，2020/9/8 上课内容。
+- Chap 1 & 2：第一章、第二章内容。
 
 The Outline is written and organized by myself, according to the textbook and the Prof. Lu's slides.
 
