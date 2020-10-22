@@ -13,7 +13,16 @@ By **Prof. Zhihong Chen**, 2020-2021-Semester 1.
 Outline 大纲：
 
 - Chap 0 & 1：概论 & 第一章内容；
-- Chap 2：第二章内容。
+- Chap 2：第二章内容；
+- Chap 3：第三章内容；
+- Chap 4：第四章内容；
+- Chap 5：第五章内容；
+- Chap 6：第六章内容；
+- Chap 7：第七章内容；
+- Chap 8：第八章内容；
+- Chap 9：第九章内容；
+- Chap 14：第十四章内容；
+- Chap 15：第十五章内容。
 
 The Outline is written and organized by myself, according to the textbook and the Prof. Chen's slides.
 
