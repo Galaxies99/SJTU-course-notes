@@ -1,4 +1,4 @@
-## CS467 Computing Theory
+## CS467 Theory of Computation
 
 CS467 计算理论
 

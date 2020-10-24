@@ -14,7 +14,7 @@ Currently we have 目前我们有如下内容:
 - CS307 Operating System (D) 操作系统（D类） by **Researcher Chentao Wu** （**吴晨涛 副研究员**）
 - CS359 Computer Architecture (A) 计算机系统结构（A类） by **Prof. Qianni Deng** （**邓倩妮 副教授**）
 - **[Updating]** CS386 Digital Image Processing 数字图像处理 by **Prof. Hongtao Lu** and **Prof. Bin Sheng**（**卢宏涛 教授** 与 **盛斌 副教授**）
-- **[Updating]** CS467 Computing Theory 计算理论 by **Prof. Huan Long**（**龙环 副教授**）
+- **[Updating]** CS467 Theory of Computation 计算理论 by **Prof. Huan Long**（**龙环 副教授**）
 - CS499 Mathematical Foundation of Computer Science 计算机科学中的数学基础 by **Prof. Jie Li**（**李颉 教授**）
 - EC109 Principles of Economics 经济学原理 by **Prof. Xiaojun Pan** （**潘小军 副教授**）
 - **[Updating]** EC306 Intermediate Economics 中级微观经济学 by **Prof. Zhihong Chen**（**陈志洪 副教授**）
