@@ -13,7 +13,9 @@ By **Prof. Hongtao Lu** and **Prof. Bin Sheng**, 2020-2021-Semester 1.
 Outline 大纲：
 
 - chap 1-3：第一章到第三章内容；
-- chap 4：第四章内容。
+- chap 4：第四章内容；
+- chap 5：第五章内容；
+- chap 6：第六章内容；
 
 The Outline is written and organized by myself, according to the textbook and the Prof. Lu's and Prof. Sheng's slides.
 
