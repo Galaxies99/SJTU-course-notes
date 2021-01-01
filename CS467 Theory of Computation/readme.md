@@ -12,11 +12,7 @@ By **Prof. Huan Long**, 2020-2021-Semester 1.
 
 Outline 大纲：
 
-- Chap 1：第一章内容；
-- Chap 2：第二章内容；
-- Chap 3：第三章内容；
-- Chap 4：第四章内容；
-- Chap 5：第五章内容。
+- Review：期末复习材料
 
 The Outline is written and organized by myself, according to the textbook and the Prof. Long's slides.
 
