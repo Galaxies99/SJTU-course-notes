@@ -24,7 +24,8 @@ Outline 大纲：
 - Chap 15：第 15 章内容；
 - Chap 16：第 16 章内容；
 - Chap 17：第 17 章内容；
-- Chap 18：第 18 章内容。
+- Chap 18：第 18 章内容；
+- Chap 19-20：第 19-20 章内容。
 
 The Outline is written and organized by myself, according to the textbook and the Prof. Lu's slides.
 
