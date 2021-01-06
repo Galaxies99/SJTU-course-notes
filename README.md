@@ -17,7 +17,6 @@ Currently we have 目前我们有如下内容:
 - CS467 Theory of Computation 计算理论 by **Prof. Huan Long**（**龙环 副教授**）
 - CS499 Mathematical Foundation of Computer Science 计算机科学中的数学基础 by **Prof. Jie Li**（**李颉 教授**）
 - EC109 Principles of Economics 经济学原理 by **Prof. Xiaojun Pan** （**潘小军 副教授**）
-- **[Updating]** EC306 Intermediate Economics 中级微观经济学 by **Prof. Zhihong Chen**（**陈志洪 副教授**）
 - EI209 Computer Organization 计算机组成 by **Teacher Jingwen Leng** （**冷静文 讲师**）
 - EM219 Engineering Machenics (Honor) 工程力学（荣誉） by **Prof. Xiaobing Song**（**宋晓冰 副教授**）
 - IS307 Basics of Cryptography and Information Security 密码学与信息安全基础 by **Prof. Yu Long** （**龙宇 副教授**）
@@ -25,7 +24,7 @@ Currently we have 目前我们有如下内容:
 - MA263 Probability and Statistics (Honor) 概率统计（荣誉） by **Prof. Dewen Xiong**（**熊德文 副教授**）
 - PH070 University Physics (I) (Honor) 大学物理 (1) （荣誉） by **Prof. Qitu Hu** （**胡其图 教授**）
 - PH071 University Physics (II) (Honor) 大学物理 (2) （荣誉） by **Prof. Qitu Hu** （**胡其图 教授**）
-- **[Updating]** SE305 Database Techniques 数据库技术 by **Prof. Chaojun Lu** （**陆朝俊 副教授**）
+- SE305 Database Techniques 数据库技术 by **Prof. Chaojun Lu** （**陆朝俊 副教授**）
 - TH007 Marxism Basic Principle 马克思主义基本原理概论 by **Teacher Liping Liu** （**刘立萍 讲师**）
 
 Notes: the courses above is in alphabet order of course number, the **[Updating]** tag means the course notes is currently updating.
