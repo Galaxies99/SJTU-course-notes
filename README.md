@@ -18,7 +18,7 @@ Currently we have 目前我们有如下内容:
 - CS499 Mathematical Foundation of Computer Science 计算机科学中的数学基础 by **Prof. Jie Li**（**李颉 教授**）
 - EC109 Principles of Economics 经济学原理 by **Prof. Xiaojun Pan** （**潘小军 副教授**）
 - EI209 Computer Organization 计算机组成 by **Teacher Jingwen Leng** （**冷静文 讲师**）
-- EM219 Engineering Machenics (Honor) 工程力学（荣誉） by **Prof. Xiaobing Song**（**宋晓冰 副教授**）
+- EM219 Engineering Mechanics (Honor) 工程力学（荣誉） by **Prof. Xiaobing Song**（**宋晓冰 副教授**）
 - IS307 Basics of Cryptography and Information Security 密码学与信息安全基础 by **Prof. Yu Long** （**龙宇 副教授**）
 - MA239 Discrete Mathematics (Honor) 离散数学（荣誉） by   **Prof. Yu Long** （**龙宇 副教授**）
 - MA263 Probability and Statistics (Honor) 概率统计（荣誉） by **Prof. Dewen Xiong**（**熊德文 副教授**）
